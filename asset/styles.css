@@ -264,11 +264,11 @@ a {
           transform: translateZ(1000px); }
 
 .code {
-  width: 40%;
+  width: 50%;
   clear: both;
   background: #FFF;
   border-radius: 2px;
-  margin: 12vh 0;
+  margin: 10vh 0;
   padding: 10px; }
   .code pre, .code code {
     height: 100%;
